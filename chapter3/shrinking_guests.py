@@ -15,6 +15,9 @@ guest_list.insert(0,'carlos')
 guest_list.insert(3,'david')
 guest_list.append('jose')
 
+#length of guests
+print("\nThere is now a total of " + str(len(guest_list)) + " that are being invited to the party")
+
 #new list being printed
 print("\nThis is the new list of guests:")
 for name in guest_list:
