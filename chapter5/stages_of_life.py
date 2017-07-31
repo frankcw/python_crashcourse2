@@ -2,7 +2,7 @@
 
 age = 19
 
-if age < 2:
+if age < 2:;
 	print("this person is a baby")
 elif age >= 2 and age < 4:
 	print('This person is a todler')
