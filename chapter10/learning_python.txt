@@ -1,0 +1,3 @@
+In Python you can create loops
+In Python you can create dictionaries
+In Python you can import text files
